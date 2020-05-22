@@ -1,4 +1,5 @@
-baseURL = "http://liamhession.com/shreddit"
+baseURL = "https://callmehesh.github.io/blog/"
 languageCode = "en-us"
 title = "Shreddit Blog"
 theme = "ananke"
+publishDir = "docs"
