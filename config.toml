@@ -1,0 +1,4 @@
+baseURL = "http://liamhession.com/shreddit"
+languageCode = "en-us"
+title = "Shreddit Blog"
+theme = "ananke"
